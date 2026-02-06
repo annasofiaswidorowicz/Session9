@@ -16,6 +16,8 @@ print(a)
 a.pop(4)
 print(a)
 
-#remove is by value, pop by position
 a.remove("Bond")
 print(a)
+
+#remove takes away by value
+#pop takes away from position
