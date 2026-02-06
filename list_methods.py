@@ -15,5 +15,7 @@ print(a)
 #pop removes an item from position
 a.pop(4)
 print(a)
+
+#remove is by value, pop by position
 a.remove("Bond")
 print(a)
