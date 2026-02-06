@@ -11,4 +11,3 @@ with open("text.txt") as fp:
     for line in fp:
         print(line.capitalize(), end = "")
         #print(line.capitalize().rstrip())
-
